@@ -17,10 +17,6 @@ A simple responsive Netflix landing page clone built using HTML and CSS.
 - CSS3
 - Google Fonts (Poppins)
 
-## Screenshot
-
-![Screenshot](./images/screenshot.png) <!-- Replace with your actual screenshot path -->
-
 ## How to Use
 
 1. Clone this repository
